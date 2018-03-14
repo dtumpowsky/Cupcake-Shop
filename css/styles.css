@@ -1,0 +1,37 @@
+img.cupcake {
+
+  width:20%;
+  height:50%;
+}
+
+p.flavor {
+  text-align: left;
+  text-emphasis: italic;
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  margin: 0px;
+  padding: 0px;
+  font-weight: normal;
+  color: red;
+   -webkit-text-fill-color: red;
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+  font-style: italic;
+}
+
+p.flavor-description {
+  color: 	red;
+    -webkit-text-fill-color: red;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  font-size: 18px;
+  font-style: italic;
+
+}
+
+body {
+  background-image: url("https://images4.alphacoders.com/166/166104.jpg")
+}
